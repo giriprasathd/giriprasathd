@@ -1,16 +1,26 @@
-### Hi there 👋
+<h3 align="center">
+  Hi 👋, I'm  <a href="https://dev.to/giriprasath" target="_blank" rel="noreferrer">GiriprasathD</a> 
+</h3>
 
-<!--
-**giriprasathd/giriprasathd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Skills
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working for Job 
+- 🌱 I’m currently learning Juila , MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 
+- 📫 Connect with me:
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+
+
+	![giriprasathdinakaran@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  
+  ![https://medium.com/@giriprasathd](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
