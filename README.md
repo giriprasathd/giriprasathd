@@ -15,7 +15,7 @@
 </div>
 
 
-- 🔭 I’m currently working on **for the job**
+##h2 🔭 I’m currently working on **for the job**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,11 +30,15 @@
 📫 Connect with me: giriprasathdinakran@gmail.com
 
 
-
-<h3 align="left">Languages and Tools:</h3>
+### :hammer_and_wrench: Languages and Tools:
+<h3 align="left"></h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+ 
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giriprasathd&show_icons=true&locale=en" alt="giriprasathd" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giriprasathd&layout=compact&theme=vision-friendly-dark)](https://github.com/giriprasathd/github-readme-stats)
